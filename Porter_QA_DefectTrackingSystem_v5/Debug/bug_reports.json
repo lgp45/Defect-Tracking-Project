@@ -1,0 +1,58 @@
+{
+    "BugReport": [
+        {
+            "bugAssignee": "213",
+            "bugCategory": "231",
+            "bugDescription": "Error Codes / Types:\r\n\r\nFunctions / Tasks Performed:\r\n\r\nExpected Result:\r\n\r\nActual Result:\r\n\r\nNotes:\r\n\r\n",
+            "bugID": 6,
+            "bugReporter": "231",
+            "bugSeverity": 593668,
+            "bugTitle": "213"
+        },
+        {
+            "bugAssignee": "",
+            "bugCategory": "",
+            "bugDescription": "Error Codes / Types:\r\n\r\nFunctions / Tasks Performed:\r\n\r\nExpected Result:\r\n\r\nActual Result:\r\n\r\nNotes:\r\n\r\n",
+            "bugID": 5,
+            "bugReporter": "",
+            "bugSeverity": 593668,
+            "bugTitle": ""
+        },
+        {
+            "bugAssignee": "asd",
+            "bugCategory": "General",
+            "bugDescription": "Error Codes / Types:\r\n\r\nFunctions / Tasks Performed:\r\n\r\nExpected Result:\r\n\r\nActual Result:\r\n\r\nNotes:\r\n\r\n",
+            "bugID": 3,
+            "bugReporter": "asd",
+            "bugSeverity": 1,
+            "bugTitle": "fp2"
+        },
+        {
+            "bugAssignee": "none",
+            "bugCategory": "General",
+            "bugDescription": "Error Codes / Types:\r\n\r\nFunctions / Tasks Performed:\r\n\r\nExpected Result:\r\n\r\nActual Result:\r\n\r\nNotes:\r\n\r\n",
+            "bugID": 2,
+            "bugReporter": "myself",
+            "bugSeverity": 3,
+            "bugTitle": "Severity settor testing"
+        },
+        {
+            "bugAssignee": "NO ONE",
+            "bugCategory": "UI",
+            "bugDescription": "Error Codes / Types:\r\n\r\nFunctions / Tasks Performed:\r\n\r\nExpected Result:\r\n\r\nActual Result:\r\n\r\nNotes:\r\n\r\n",
+            "bugID": 1,
+            "bugReporter": "Luke",
+            "bugSeverity": 1,
+            "bugTitle": "Test 2"
+        },
+        {
+            "bugAssignee": "Fixer",
+            "bugCategory": "UI",
+            "bugDescription": "Error Codes / Types:\r\n\r\nFunctions / Tasks Performed:\r\n\r\nExpected Result:\r\n\r\nActual Result:\r\n\r\nNotes:\r\n\r\n",
+            "bugID": 0,
+            "bugReporter": "Tester One",
+            "bugSeverity": 1,
+            "bugTitle": "Test Bug"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+﻿  BugReport.cpp
+  DTS.cpp
+D:\General Development\Defect Tracking System\Defect-Tracking-Project\Porter_QA_DefectTrackingSystem_v5\Porter_QA_DefectTrackingSystem_v5\DTS.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+D:\General Development\Defect Tracking System\Defect-Tracking-Project\Porter_QA_DefectTrackingSystem_v5\Porter_QA_DefectTrackingSystem_v5\DTS.cpp(147,23): warning C4018: '<': signed/unsigned mismatch
+D:\General Development\Defect Tracking System\Defect-Tracking-Project\Porter_QA_DefectTrackingSystem_v5\Porter_QA_DefectTrackingSystem_v5\DTS.cpp(170,27): warning C4018: '<': signed/unsigned mismatch
+  MainWindow.cpp
+D:\General Development\Defect Tracking System\Defect-Tracking-Project\Porter_QA_DefectTrackingSystem_v5\Porter_QA_DefectTrackingSystem_v5\MainWindow.h(151,22): warning C4018: '<': signed/unsigned mismatch
+D:\General Development\Defect Tracking System\Defect-Tracking-Project\Porter_QA_DefectTrackingSystem_v5\Porter_QA_DefectTrackingSystem_v5\MainWindow.h(1181,21): warning C4018: '<': signed/unsigned mismatch
+  .NETFramework,Version=v4.6.AssemblyAttributes.cpp
+  Generating Code...
+  BugReport.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Porter_QA_DefectTrackingSystem_v5.vcxproj -> D:\General Development\Defect Tracking System\Defect-Tracking-Project\Porter_QA_DefectTrackingSystem_v5\Porter_QA_DefectTrackingSystem_v5\Debug\Porter_QA_DefectTrackingSystem_v5.exe
